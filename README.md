@@ -1,6 +1,6 @@
 # NetJobs
 Implantacion de esquemas UML para montar NetJobs
-Cosas para hacer:
+<li>Cosas para hacer:</li>
   Implementar Aplicar a empleo y Registrar usuario
 
   Diagramas de casos de uso:
